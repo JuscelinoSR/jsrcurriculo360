@@ -1,8 +1,10 @@
 # Carreira 360 — Gerador de Currículo ATS
 
-O **Carreira 360** é uma aplicação web desenvolvida para ajudar usuários a criarem currículos profissionais, claros e compatíveis com sistemas ATS.
+O **Carreira 360** é uma proposta documentada de aplicação web para ajudar usuários a criarem currículos profissionais, claros e compatíveis com sistemas ATS.
 
-A ferramenta permite preencher dados pessoais, experiências profissionais, formação acadêmica, cursos, competências e projetos, exibindo uma prévia do currículo em tempo real. Também conta com uma análise educativa de compatibilidade ATS, oferecendo sugestões de melhoria de forma transparente e sem prometer aprovação em processos seletivos.
+**Estado deste repositório:** documentação disponível; código-fonte da aplicação ainda não publicado aqui. As seções abaixo descrevem o escopo e o comportamento proposto.
+
+A proposta prevê preencher dados pessoais, experiências profissionais, formação acadêmica, cursos, competências e projetos, exibindo uma prévia do currículo em tempo real. Também conta com uma análise educativa de compatibilidade ATS, oferecendo sugestões de melhoria de forma transparente e sem prometer aprovação em processos seletivos.
 
 ---
 
@@ -203,5 +205,4 @@ Projeto criado com foco em aprendizado, carreira, tecnologia e desenvolvimento d
 
 ## 📜 Licença
 
-Este projeto é de uso educacional.
-A licença pode ser definida futuramente conforme a evolução do projeto.
+Distribuído sob a [licença MIT](LICENSE). Licenças de dependências e materiais de terceiros devem ser preservadas.
