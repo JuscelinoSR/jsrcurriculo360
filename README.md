@@ -1,5 +1,3 @@
-# jsrcurriculo360
-O Carreira 360 é uma aplicação web que ajuda o usuário a criar currículos profissionais, organizados e compatíveis com sistemas ATS. A ferramenta permite preencher dados, visualizar o currículo em tempo real, analisar pontos de melhoria e exportar em PDF, mantendo os dados salvos apenas no navegador.
 # Carreira 360 — Gerador de Currículo ATS
 
 O **Carreira 360** é uma aplicação web desenvolvida para ajudar usuários a criarem currículos profissionais, claros e compatíveis com sistemas ATS.
@@ -16,7 +14,7 @@ Este é um projeto educacional, criado como MVP para prática de desenvolvimento
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades previstas no escopo
 
 * Preenchimento de dados pessoais.
 * Cadastro de resumo profissional.
@@ -73,7 +71,7 @@ O usuário pode limpar todos os dados a qualquer momento.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias descritas na proposta
 
 * React
 * TypeScript
@@ -86,37 +84,18 @@ O usuário pode limpar todos os dados a qualquer momento.
 
 ---
 
-## 💻 Como executar o projeto
+## 💻 Disponibilidade do código
 
-### 1. Clone o repositório
+Atualmente, este repositório público contém a documentação da proposta, sem o código-fonte da aplicação. As funcionalidades e tecnologias descritas neste README representam o escopo documentado do projeto; não é possível executar a aplicação a partir deste repositório neste momento.
 
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-### 2. Acesse a pasta do projeto
+Para baixar a documentação:
 
 ```bash
-cd seu-repositorio
+git clone https://github.com/JuscelinoSR/jsrcurriculo360.git
+cd jsrcurriculo360
 ```
 
-### 3. Instale as dependências
-
-```bash
-npm install
-```
-
-### 4. Execute o projeto em ambiente local
-
-```bash
-npm run dev
-```
-
-### 5. Acesse no navegador
-
-```bash
-http://localhost:5173
-```
+As instruções de instalação e execução serão adicionadas quando o código-fonte estiver disponível.
 
 ---
 
@@ -197,7 +176,7 @@ A ferramenta não deve ser usada para inventar experiências, resultados, forma�
 
 ## 📚 Status do projeto
 
-Projeto em desenvolvimento como MVP educacional de bootcamp.
+Documentação de um MVP educacional. O código-fonte ainda não está disponível neste repositório público.
 
 Funcionalidades futuras possíveis:
 
@@ -209,6 +188,10 @@ Funcionalidades futuras possíveis:
 * Análise mais detalhada por tipo de vaga.
 
 ---
+
+## Como contribuir
+
+Sugestões de clareza, exemplos e melhorias de documentação são bem-vindas. Consulte [CONTRIBUTING.md](CONTRIBUTING.md) antes de abrir uma contribuição.
 
 ## 👨‍💻 Autor
 
